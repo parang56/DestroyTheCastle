@@ -1,0 +1,4 @@
+repository "Destroy The Castle@DoomChicken@cloud"
+  path "/"
+    br "/main"
+    co "/main"
